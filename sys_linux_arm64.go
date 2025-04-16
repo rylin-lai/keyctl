@@ -1,7 +1,7 @@
 package keyctl
 
 const (
-	syscall_keyctl   uintptr = 311
-	syscall_add_key  uintptr = 309
-	syscall_setfsgid uintptr = 139
+	syscall_keyctl   uintptr = 250
+	syscall_add_key  uintptr = 248
+	syscall_setfsgid uintptr = 133
 )
